@@ -8,4 +8,5 @@ title: Day 1; the journey there
 * Plane late & official Santa airline message 
 * Rant about torrenting on iPads
 * Bidets already in Finland
+* Scanned the wrong boarding pass
 
