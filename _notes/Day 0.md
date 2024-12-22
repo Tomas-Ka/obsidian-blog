@@ -85,6 +85,9 @@ Another fun thing with the flight are the in flight entertainment systems. I've 
 Towards the end of the flight, during a brief pause in her naps, Mum turns over and announces she has figured out The Thing We Forgot™ (there's always one thing on every single journey), and thankfully it was just that both me and her had forgotten to pack our bathing suits. Something easily solved at a store once we arrive.
 
 <br>
+* Ass hurts from sitting down for almost 13 hours
+* I somehow lost my blanket, did I even get one in the first place??
+* Shaky landing with several additional "burns"
 # Today's Japanese phrases:
 * Sumimasen, Nihongo ga wakarimasen - (Sorry I don't speak japanese)
 * ... doko desu ka - (where is ...)
