@@ -64,6 +64,24 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       # pointing to non-existing pages, so let's turn them into disabled
       # links by greying them out and changing the cursor
       # Still need to find a way to exclude from codeblocks with ```
+
+      # first replace notes with specified title ([[filename | title]])
+      current_note.content = current_note.content.gsub(
+        /
+        (?:^\[{2}[^\]]*\||\s{1}\[{2}[^\]]*\|) # Match until find "[[" then skip to "|" quit on "]" character OR
+                                              # Match until find space then "[[" then skip to a "|" quit on "]" character
+        ([^\]]+) # Capture title
+        \]{2} # Make sure it ends in ]]
+        (?!.*?[\r\n]+[`{3,}|~{3,}]) # Exclude codeblocks
+        /x, # match on the remaining double-bracket links
+        <<~HTML.delete("\n")  # replace with this HTML (\\1 is what was inside the title field)
+          <span title='There is no note that matches this link.' class='invalid-link'>
+            <span class='invalid-link-brackets'>[[</span>
+            \\1
+            <span class='invalid-link-brackets'>]]</span></span>
+        HTML
+      )
+
       current_note.content = current_note.content.gsub(
         /
         (?:^\[{2}.|\s{1}\[{2}) # Starting with [[ on newline or preceded by space
