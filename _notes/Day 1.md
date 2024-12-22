@@ -9,4 +9,14 @@ title: Day 1; the journey there
 * Rant about torrenting on iPads
 * Bidets already in Finland
 * Scanned the wrong boarding pass
+* Stewardesses have Santa hats
+* Sat in the airplane for an hour before liftoff
+* Airplane getting a wash
+* Breakfast on plane
+* Ass hurts from sitting down for almost 13 hours
+* I somehow lost my blanket, did I even get one in the first place??
+* Shaky landing with several additional "burns"
 
+Today's Japanese phrases:
+* Sumimasen, Nihongo ga wakarimasen. (Sorry I don't speak Japanese)
+* ... Doko desu ka (where is ...)
