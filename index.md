@@ -23,7 +23,7 @@ but what I like more are all of your witty remarks and funny comments!
 if You liked something, thought something was funny, think i'm writing too much,
 anything! then please send me a message wherever, be it discord or whatsapp or snapchat.
 
-## the future
+## The future
 
 once the trip is over i'm hoping to continue updating this place
 (and putting it on my own website sooner rather than later),
