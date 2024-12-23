@@ -79,6 +79,10 @@ h1:first-of-type {
   line-height: 1;
 }
 
+h1 {
+  font-weight: bold;
+}
+
 h2+h3 {
   margin-top: 0.3em;
 }
@@ -665,17 +669,24 @@ div.highlight pre {
   display: block;
   float: left;
   margin: 10px;
+  font-size: 80%;
+  text-align: center;
 }
 
 .centerimg {
   display: block;
   margin: 0px auto;
+  width: 75%;
+  font-size: 80%;
+  text-align: center;
 }
 
 .rightimg {
   display: block;
   float: right;
   margin: 10px;
+  font-size: 80%;
+  text-align: center;
 }
 
 .tinyimg {
@@ -693,7 +704,22 @@ div.highlight pre {
   max-width: 500px
 }
 
+.mediumheightimg {
+  display: block;
+  max-height: 500px;
+}
+
 .largeimg {
   display: block;
   max-width: 800px
+}
+
+.sidebysidecenter {
+  display: flex;
+
+}
+
+.sidebyside {
+  flex: 50%;
+  padding: 10px;
 }
