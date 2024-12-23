@@ -1,4 +1,5 @@
 ---
 ---
 
-* fox image carousel
+* image carousel
+* video embeds?
