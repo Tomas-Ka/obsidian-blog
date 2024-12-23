@@ -17,12 +17,18 @@ I'm going to Japan over Christmas and New Year 2024/25,
 and so instead of updating all my friends and relatives one by one
 I have this site instead (knowing me, probably in addition to sending messages xD).
 
-## The future
+Please write to me if You wanna comment on anything!!
+I love telling all my friends and family about whatever is going on in my life,
+but what I like more are all of your witty remarks and funny comments!
+if You liked something, thought something was funny, think i'm writing too much,
+anything! then please send me a message wherever, be it discord or whatsapp or snapchat.
 
-Once the trip is over I'm hoping to continue updating this place
+## the future
+
+once the trip is over i'm hoping to continue updating this place
 (and putting it on my own website sooner rather than later),
-but I'm not actually sure what will happen yet.
-I guess we will find out together. Until then I hope You enjoy what's here.
+but i'm not actually sure what will happen yet.
+i guess we will find out together. until then i hope you enjoy what's here.
 
-Happy reading, <br>
-*Tomas / Nyx / Defyd*
+happy reading, <br>
+*tomas / nyx / defyd*
