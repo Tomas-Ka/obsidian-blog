@@ -20,15 +20,15 @@ I have this site instead (knowing me, probably in addition to sending messages x
 Please write to me if You wanna comment on anything!!
 I love telling all my friends and family about whatever is going on in my life,
 but what I like more are all of your witty remarks and funny comments!
-if You liked something, thought something was funny, think i'm writing too much,
+if You liked something, thought something was funny, think I'm writing too much,
 anything! then please send me a message wherever, be it discord or whatsapp or snapchat.
 
 ## The future
 
-once the trip is over i'm hoping to continue updating this place
+once the trip is over I'm hoping to continue updating this place
 (and putting it on my own website sooner rather than later),
-but i'm not actually sure what will happen yet.
-i guess we will find out together. until then i hope you enjoy what's here.
+but I'm not actually sure what will happen yet.
+I guess we will find out together. until then I hope you enjoy what's here.
 
 happy reading, <br>
 *tomas / nyx / defyd*
