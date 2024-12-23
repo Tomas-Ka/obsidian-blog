@@ -1,3 +1,6 @@
+---
+---
+
 * breakfast
 * met a Swedish guy at the shrine who say he was surprised to here Swedish here
 * Prayer wall 

@@ -19,12 +19,16 @@ Once we arrived at the airport we went to check in our bags, and immediately ran
 ![[boarding_pass_error.webp]]
 *technology doing what technology is wont to do*
 
-Thus we ended up having to find a non self service station, queue for what felt like half an hour, and then finally get our luggage sent on it's merry way (the service personal was very nice).
+
+<span class="rightimg"><span class ="smallimg">
 ![[bags_leaving.webp]]
 *our bags going down the conveyor*
+</span></span>
+Thus we ended up having to find a non self service station, queue for what felt like half an hour, and then finally get our luggage sent on it's merry way (the service personal was very nice).
 
 Thankfully the rest of our experience at Kastrup was more par for the course. Our plane was 20 minutes late (of course) and I spent the time trying to download even more anime my brother had requested, failing miserably (why can't Ipads install torrent software, like come on apple; let me download my Linux ISOs in peace D:). Then before we knew it we were about to board towards Helsinki (unfortunately without additional anime however).
 
+---
 ==Pic of first plane ride==
 *Our plane to Helsinki*
 
