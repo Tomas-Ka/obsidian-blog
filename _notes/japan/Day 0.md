@@ -146,7 +146,7 @@ We had to go one by one and hand over a little slip of paper with information ab
 Then we ran off to pick up our bags, walk through customs without declaring anything, and finally we could get to the taxi who was waiting. Whilst we'd been waiting in the queue he sent us images with a step by step tutorial of how to find him, and they really came in handy as we rushed through the airport. We all piled in, thanked him so much for waiting, and sped away towards Tokyo city, and our hotel in Shinjuku. Just ten or so minutes into the ride we passed a random Hellcat going in the same direction, and I also saw my very first Kei-truck on that trip. My brother and I briefly tried connecting to the WiFi of an airport bus we were tailing for a solid while, but they required a password, so no luck there. Having not had a lot of sleep on the flight I soon found myself drifting off, and when I woke up, we were in the heart of Tokyo!
 
 > This page was **very** long, so I decided to split it into two parts. The one of actually getting to Japan (this one), as well as a second one about what we actually did on our first night.
-> I'm currently writing that second one, so It's not available quite yet. I just figured It would be better if I managed to get something up on the internet at least
+> I'm currently writing that second one, so It's not available quite yet. I just figured It would be better if I managed to get something up on the internet at least instead (once I finally got the website to work with me)
 
 <br>
 
