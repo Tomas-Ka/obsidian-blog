@@ -4,7 +4,7 @@ title: About
 favicon: 
 ---
 
-**Doing what I do best**—meticulously documenting everything.
+I'm a 20 y/o Swede with a penchant for getting into wild and wacky situations.
+I've wanted to make a blog for several years, and now when I'm going to Japan over Christmas and New Year 2024/25 seems like the perfect opportunity to finally make one!
 
-## Why?
-Mostly for my own reference, but also because I'm learning Jekyll as I edit this template. I'm doing this as a replacement for my previous [digital garden template](https://megu.space) which was based in Wordpress. Markdown and Obsidian help me gather knowledge and write better content, faster.
+I can't really speak on how well updated this will be in the future, but I'll try my best. If I'm giving up on the site I'll try to remember to write so here.
