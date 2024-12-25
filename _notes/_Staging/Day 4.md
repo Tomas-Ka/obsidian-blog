@@ -28,3 +28,7 @@ title:
 * Went back again, got a Christmas present
 * saw Fuji with less clouds and then went all the way back to Gora. Taking an earlier stop on the mountain side Railcar, and walking to the Ryokan.
 * Had my second ever rice in seaweed thingy, first one in Japan
+* "Immensely Oishii" - dad
+* Went to Onsen, very nice. Talk about image on onsen door??
+* Showered in public bathroom and then bathed in private onsen. Honestly was very nice too. Nice to shower in a warm room. Wore yukata for both that and dinner, and we spent a good while figuring out how to wear them properly, but figured it out in the end! 
+* We also went to bed with the Yukata on!
