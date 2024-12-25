@@ -11,6 +11,7 @@ I have very quickly realised that it isn't feasible to update this site properly
 
 <br>
 # Days:
-[[Day 0|Day 0: the trip to Tokyo]]: Since timezones are strange I've to split the trip there into two separate entries.<br>
+[[Day 0|Day 0: The trip to Tokyo]]: Since timezones are strange I've to split the trip there into two separate entries.<br>
 [[Day 1|Day 1: Half a day in Tokyo]]: Getting to the hotel, having food, first impressions of the country and city.<br>
-[[Day 2|Day 2: First proper day]]: Walking around Tokyo, visiting a shrine, Shibuya sightseeing, eating too much at a Korean restaurant.
+[[Day 2|Day 2: First proper day]]: Walking around Tokyo, visiting a shrine, Shibuya sightseeing, and eating too much at a Korean restaurant.<br>
+[[Day 3|Day 3: The Ghibli museum]]: We visit the "holy place of Your Name" and the Mitaka Ghibli museum 

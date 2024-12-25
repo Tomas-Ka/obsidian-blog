@@ -1,4 +1,5 @@
 ---
+title: "Day 3: The Ghibli museum"
 ---
 
 * mum find the squished cards ugly, I think they're cute. They look like someone just took a normal car and pressed it together lengthwise
@@ -8,7 +9,7 @@
 * Shinjuku station being Shinjuku station 
 * Arrows for where to go pointing into each other
 * God finding things in Shinjuku sucks. The mall was closed on floor -1, but -2 was open, we just didn't know how to get in. Eventually we found it, and we're rewarded with food, and according to dad, "the best beer I've ever had in Japan"
-* It seems like the different metro stations have different jingles. Might be dependant on the line too, I'll have to have a proper look at some point!
+* It seems like the different metro stations have different jingles. Might be dependant on the line too, I'll have to have a proper look at some point! I looked into it, and it's the stations that have separate jingles. On large stations the different lines may be separate as well!
 * Mum says the weather will be nice all the time we're here....
 * We had some of the fluffiest pancakes I've ever had in my life. They were incredibly tasty, and I got a very nice and strong ginger lemonade.
 * Completely manual door
@@ -24,13 +25,14 @@
 * Laputa drawings!!!
 * A violin in the example drawing/art room
 * Lots of plane drawings
-* Nausicaä and Mononoke next to real other lives really similar
+* Nausicaä and Mononoke next to each other looks really similar
 * Scribbled with crayon! Or colour pens at least
-* Gorgeous landscapes for ariett
+* Gorgeous landscapes for Arietti
 * All the trinkets in Howl
 * Such a feeling of nostalgia
 * We get to see storyboards as well
-* The environment drawings from the boy and the heron look like actual photo plastic sheets over background to create parallax
+* The environment drawings from the boy and the heron look like actual photos
+* plastic sheets over background to create parallax
 * I need to watch the boy and the heron again is so beautiful
 * People playing Christmas music on bells in the foyer. Like real brass bells! They started with deck the halls. Five people with a large amount of bells they all held 2 each
 * Holy ducking shit this is beautiful, I didn't even know bells could make sounds like that played some Ghibli ending theme I recognise from recently, maybe the one with the girl who died in tuberculosis? Gotta have a more proper look. Maybe incest movie? Ponyo??
@@ -51,4 +53,4 @@
 Calm sung and with lyrics
 
 # Today's Japanese
-* Kore to Kore (this and this) [used whilst ordering]
+* Kore to kore to sore kudasai. (this and this and that please) [used whilst ordering]
