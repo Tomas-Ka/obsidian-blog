@@ -4,7 +4,7 @@ title: Welcome!
 id: home
 ---
 <section class="callout">
-	Take a look at the <a href="day-1.html" class="internal-link">latest entry</a>,
+	Take a look at the <a href="day-2.html" class="internal-link">latest entry</a>,
 	or the <a href="/japan" class="internal-link">overview</a> of my trip to Japan!
 </section>
 
