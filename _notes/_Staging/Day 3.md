@@ -2,7 +2,7 @@
 title: "Day 3: The Ghibli museum"
 ---
 
-* mum find the squished cards ugly, I think they're cute. They look like someone just took a normal car and pressed it together lengthwise
+* mum find the squished card ugly, I think they're cute. They look like someone just took a normal car and pressed it together lengthwise
 * Ado poster
 * The Holy place of `Your Name`
 * And accompanying shrine 

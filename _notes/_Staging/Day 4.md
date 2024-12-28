@@ -1,9 +1,9 @@
 ---
-title:
+title: Day 4
 ---
 * checked out from hotel
 * Breakfast at a random place on the street which was, according to mum, the dirtiest place we'd been at yet. 
-* Mum had napu? Beans. Not recommended. 
+* Mum had natto Beans. Not recommended. 
 * I tried them, I agree
 * Shinjuku station again. This time a lot easier because I sort of knew were we were going already. Were going to the Hakone region, so we're switching trains twice
   - Change at odaware
@@ -32,3 +32,6 @@ title:
 * Went to Onsen, very nice. Talk about image on onsen door??
 * Showered in public bathroom and then bathed in private onsen. Honestly was very nice too. Nice to shower in a warm room. Wore yukata for both that and dinner, and we spent a good while figuring out how to wear them properly, but figured it out in the end! 
 * We also went to bed with the Yukata on!
+
+# Today's Japanese phrases:
+*

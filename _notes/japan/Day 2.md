@@ -18,6 +18,7 @@ The gardens were beautiful, and there was so much birdsong I started wondering i
 After looking around for a while we continued onwards, finding two large walls of holy drinks, one of sake and one of wine, that had been gifted to the temple throughout the years. As we were walking towards them I made a joke about it being "the holy spirits", and you must then imagine my surprise when I realised that it in fact was holy sine and sake.
 
 ==holy wall of sake==
+
 <br>
 # Towards Shibuya
 Our next stop on our journey was Shibuya, and the scramble crossing. It was a relatively short 30 minute walk there from the shrine, and we went through plenty of mutli-directional crossings on the way. It's a really neat concept to allow all the pedestrians to walk at the same time and just sort it out so they don't collide with each other. I've gotten good experience with this already from a "dance" at my Uni which involves standing in two long lines on opposite sides of an area and then running towards and through each other, and then back again and then to the first side, and so on (those of you who know about "the storm" have probably experienced this already). The crossings of Tokyo are slightly less chaotic, and given the lower speeds everyone is travelling at, quite a lot safer too.
@@ -42,5 +43,7 @@ We looked through the menu, and eventually placed our order. As we were telling 
 We didn't have anything to drink, so I ordered a green tea from the drink menu (we also had to order something in order to get a deal on the massive amount of meat we got), and when it arrived I quickly found out that green tea with sake was a thing. It was quite tasty, certainly a surprise, but a decently welcome one.
 
 In the end we managed to eat almost all of the food (except for one thing that dad said didn't taste very good) **and** walk all the way home without dying in the process! I was planning to write out a full entry on the blog that evening, but I ended up just falling asleep instead (I've very quickly found out that writing these take quite a lot of time, but I'm comited to finish writing all of them before the trip ends! If nothing else there will be a lot of writing on the plane ride home).
+
+<br>
 # Today's Japanese phrases:
 Okaikei onegaishimasu - (Could we have the Check please)
