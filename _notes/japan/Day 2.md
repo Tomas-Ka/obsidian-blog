@@ -86,11 +86,18 @@ Once we got back to Shinjuku we decided to go get something to eat straight away
 *the face of regret*
 </span>
 </span>
+
 We looked through the menu, and eventually placed our order. As we were telling the waiter what we wanted I started realising we were getting slightly larger than I had originally thought, but I figured we'd be fine. That's when I also came to the conclusion that I wasn't even that hungry. We were screwed. Even as this horrible fact set in me and dad were determined to get as much eaten as possible, and eat we did. As we were going through the food we decided that we most certainly could not eat any rice after having all the rest of the food, so we called over the waiter, typed out "We're very sorry but could you please cancel the fried rice" on google translate and showed it to him, which worked great! Later at the hotel whilst looking into it more it turns out that we may have been one step too formal and ended up saying "we are deeply and terribly sorry" but eh, it can never hurt to be too polite.
 
 We didn't have anything to drink, so I ordered a green tea from the drink menu (we also had to order something in order to get a deal on the massive amount of meat we got), and when it arrived I quickly found out that green tea with sake was a thing. It was quite tasty, certainly a surprise, but a decently welcome one. Later on I also tried a ginger ale which was incredibly good, and really tasted of ginger. I know several people back in Sweden who would absolutely love it. 
 
-In the end we managed to eat almost all of the food (except for one thing that dad said didn't taste very good) **and** walk all the way home without dying in the process! I was planning to write out a full entry on the blog that evening, but I ended up just falling asleep instead (I've very quickly found out that writing these take quite a lot of time, but I'm comited to finish writing all of them before the trip ends! If nothing else there will be a lot of writing on the plane ride home).
+<span class="leftimg">
+<span class="smallimg">
+![[food_done_korean.webp]]
+</span>
+</span>
+
+In the end we managed to eat almost all of the food (except for one thing that dad said didn't taste very good) **and** walk all the way home without dying in the process! I was planning to write out a full entry on the blog that evening, but I ended up just falling asleep instead (I've very quickly found out that writing these take quite a lot of time, but I'm commited to finish writing all of them before the trip ends! If nothing else there will be a lot of writing on the plane ride home).
 
 <br>
 # Today's Japanese phrases:
