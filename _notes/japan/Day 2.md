@@ -71,6 +71,7 @@ We went to a small cafe nearby to plan our next course of action, and it was dec
 
 <br>
 # Heading Back Home
+
 Then it was time for our first ride on the metro! we went through it with pretty much no issues at all. The only casualty being dad's head, which he hit whilst standing up from his seat (a seat he unfortunately only had for one station as the metro we went on was quite packed). It's incredibly nice that they tell you what door is opening on the next station, as it allows you to prepare for getting out a lot better! 
 
 Once we got back to Shinjuku we decided to go get something to eat straight away, and so after a quick pitstop back at the hotel to put away our things, we wondered through an area with a large amount of Korean restaurants and food stores. At first we wanted to find a Japanese place since we are in Japan after all, but after only getting Korean place after Korean place we eventually decided to just go for the next one. We walked in, took a look at the menu and decided it looked great.
@@ -94,6 +95,7 @@ We didn't have anything to drink, so I ordered a green tea from the drink menu (
 <span class="leftimg">
 <span class="smallimg">
 ![[food_done_korean.webp]]
+*all done*
 </span>
 </span>
 
