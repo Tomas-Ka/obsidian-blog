@@ -10,6 +10,7 @@ title: Day 4
   - And hakonemoto (Hakone-yumoto)
   - Don't go out from the station
 * Many train pictures (you're welcome Timo)
+* It seems like the different metro stations have different jingles. Might be dependant on the line too, I'll have to have a proper look at some point! I looked into it, and it's the stations that have separate jingles. On large stations the different lines may be separate as well!
 * Last train to gora switches directions and track! The conductor and the driver walked out and around the train to change places
 * Second steepest train slope
 * Tour guide in English on the train was really interesting
