@@ -4,8 +4,8 @@ title: Welcome!
 id: home
 ---
 <section class="callout">
-	Take a look at the <a href="day-2.html" class="internal-link">latest entry</a>,
-	or the <a href="/japan" class="internal-link">overview</a> of my trip to Japan!
+    Take a look at the <a href="day-2.html" class="internal-link">latest entry</a>,
+    or the <a href="/japan" class="internal-link">overview</a> of my trip to Japan!
 </section>
 
 ## Hello!
@@ -31,4 +31,4 @@ but I'm not actually sure what will happen yet.
 I guess we will find out together. until then I hope you enjoy what's here.
 
 happy reading, <br>
-*tomas / nyx / defyd*
+*Tomas / Nyx / Defyd*

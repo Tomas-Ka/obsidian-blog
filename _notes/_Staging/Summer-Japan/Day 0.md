@@ -1,0 +1,66 @@
+---
+title: "Day 0: Re Tokyo"
+---
+
+So, it's time again... When I came home from Japan last time I said I wouldn't
+go back for another good while, but hey, whatever happens happens, and since so
+many of my friends were interested in going I of course had to come along as
+well. We'll be 6 people in total at maximum, four of them having already spent
+a week in Kyoto and Osaka at this point, and me and the last friend are flying
+into Tokyo today.
+
+It's really been an experience trying to plan all this out. People arriving and
+leaving at different times, four different hotels in total for different
+groups, one not even being booked as I'm writing this, and finally I have
+probably packed the lightest suitcase I've ever had on a plane before, which
+certainly is an experience for a three week vacation in Japan.
+
+<!-- WARN: Picture of nice and clean garden here? -->
+
+In any case, enough of the preamble, and onto the actual trip!
+
+The bad decisions really begin the day before the trip (arguably even earlier
+but cut me some slack here), I had decided my backside garden just required
+getting mowed and sorted before I left, and I'd of course also left the last of
+the laundry for the very last second too. Through some miracle I did manage to
+get the apartment and garden looking quite presentable, but I ended up
+procrastinating doing the laundry, so much so that when I finally got started
+on it at 2-3 am I realised that I wouldn't be doing a lot of sleeping that
+night, considering my train left just before 9 am, and I still had to shower
+and pack and whatnot.
+
+A sleepless night it was in other words, but honestly, it hasn't been all that
+bad yet. It's still far from the end of the day of course (sadly I'm not able
+to sleep very well on the plane). The spare time allowed me to prepare very
+properly at least, and I walked to the train station just in time to catch my
+train. Mum was there to see me off and take my keys, which was very sweet,
+though she was a bit worried that I wouldn't make it.
+
+<!-- WARN: Plane image goes here -->
+
+I meet my friend at the central station, and we get on the train to the airport
+together. I had bought tickets earlier since I had to take a train into town as
+well, so we just sit down and relax, eventually getting into the airport (as it
+later turns out I was so tired I had forgotten to actually activate my ticket,
+so now I have a spare 2 person ticket to the airport... Whoops?).
+
+The airport has been rebuilt somewhat recently, so finding my way was a bit of
+a challenge, but eventually we picked what we thought would be a likely area
+for the plane to show up and sat down to rest a bit. Turns out we were wrong,
+and when we'd decided what end of the place to go to, we had selected the wrong
+one. Thankfully there was time to spare, so we managed to make it to our gate
+with time to spare.
+
+Then it was simply the case of the plane ride. We played some Mario Cart DS
+versus each other, watched a movie, and then I wrestled a bit with this blog (I
+had forgotten to upgrade some stuff before I went on the plane, so I wasn't
+able to actually test anything at all unfortunately. Hopefully everything will
+just work when we land!).
+
+<!-- WARN: Image of food here -->
+
+I got a very nice potato mash and chicken meal, whilst my friend got a
+vegetarian thing she had ordered, and we also got ourselves some actually quite
+decent SAS branded IPA as well. Welp, with all that out of the way I'm gonna do
+my best to actually get some sleep, and hopefully I'll be at least somewhat
+concious when we actually arrive in Tokyo!
