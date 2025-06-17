@@ -37,6 +37,10 @@ train. Mum was there to see me off and take my keys, which was very sweet,
 though she was a bit worried that I wouldn't make it.
 
 <!-- WARN: Plane image goes here -->
+<span class="leftimg"><span class ="smallimg">
+![[flight_to_japan.webp]]
+*our flying chariot to Japan*
+</span></span>
 
 I meet my friend at the central station, and we get on the train to the airport
 together. I had bought tickets earlier since I had to take a train into town as
@@ -58,6 +62,13 @@ able to actually test anything at all unfortunately. Hopefully everything will
 just work when we land!).
 
 <!-- WARN: Image of food here -->
+<span class="sidebysidecenter">
+<span class="sidebyside">![[flight_dinner_to_japan.webp]]</span>
+<span class="sidebyside">![[flight_breakfast_to_japan.webp]]</span>
+</span>
+<span class="centerimg">
+*Quite good food for both dinner and breakfast*
+</span>
 
 I got a very nice potato mash and chicken meal, whilst my friend got a
 vegetarian thing she had ordered, and we also got ourselves some actually quite
@@ -65,10 +76,19 @@ decent SAS branded IPA as well. Welp, with all that out of the way I'm gonna do
 my best to actually get some sleep, and hopefully I'll be at least somewhat
 conscious when we actually arrive in Tokyo!
 
-Took a few metros and finally we ended up in the apartment. It was incredibly warm the entire way there (upwards of 35 degrees warm, with like 80% humidity), and apparently it's only going to get warmer...
+After a quick breakfast of yogurt sandwiches and fresh fruit we finaly landed. The next fews steps were me buying a suica card and then us taking a few metros and finally we ended up in the apartment. It was incredibly warm the entire way there (upwards of 35 degrees warm, with like 80% humidity), and apparently it's only going to get warmer...
 
 <!-- WARN: Pic of apartment here -->
+<span class="rightimg"><span class ="smallimg">
+![[yshtola_binder.webp]]
+*Yshtola from FFXIV in all her glory*
+</span></span>
 
-The rest of the day was spent getting some lunch, and then after lounging about for a while, heading over to visit two other friends who have lived here for the past few months. On the way over we also had some amazing ramen noodles at a random place in the wall we walked by. Finally, as we were heading back on the train, my dear travel partner saw an advert for a game show on the train and, briefly forgetting the culture she was in, pointed at it and proclaimed "Yaoi!" She immediately realised what she had done, and after briefly locking eyes with an older gentlemen on the train proceeded to spend the rest of the train trip in shame. What a wonderful start to our adventure.
+The rest of the day was spent getting some lunch, wandering into some random convenience stores where I found Magic the Gathering and FFXIV crossover items, folders specifically, and decided I'll have to re-visit and have a good look at them later. After lounging about for a while, heading over to visit two other friends who have lived here for the past few months.
+<span class="leftimg"><span class ="smallimg">
+![[ramen_day_0.webp]]
+*The ramen we got at the ramen store*
+</span></span>
+On the way over we also had some amazing ramen noodles at a random place in the wall we walked by. Finally, as we were heading back on the train, my dear travel partner saw an advert for a game show on the train and, briefly forgetting the culture she was in, pointed at it and proclaimed "Yaoi!" She immediately realised what she had done, and after briefly locking eyes with an older gentlemen on the train proceeded to spend the rest of the train trip in shame. What a wonderful start to our adventure.
 
 > Gonna try to keep my excerpts a bit briefer to hopefully this time I'll actually manage to write something about every day and upload it as I go. I'll also try to finish up the last diary as I go (I'm still writing on it, I just have a lot of notes to go through).
