@@ -63,4 +63,12 @@ I got a very nice potato mash and chicken meal, whilst my friend got a
 vegetarian thing she had ordered, and we also got ourselves some actually quite
 decent SAS branded IPA as well. Welp, with all that out of the way I'm gonna do
 my best to actually get some sleep, and hopefully I'll be at least somewhat
-concious when we actually arrive in Tokyo!
+conscious when we actually arrive in Tokyo!
+
+Took a few metros and finally we ended up in the apartment. It was incredibly warm the entire way there (upwards of 35 degrees warm, with like 80% humidity), and apparently it's only going to get warmer...
+
+<!-- WARN: Pic of apartment here -->
+
+The rest of the day was spent getting some lunch, and then after lounging about for a while, heading over to visit two other friends who have lived here for the past few months. On the way over we also had some amazing ramen noodles at a random place in the wall we walked by. Finally, as we were heading back on the train, my dear travel partner saw an advert for a game show on the train and, briefly forgetting the culture she was in, pointed at it and proclaimed "Yaoi!" She immediately realised what she had done, and after briefly locking eyes with an older gentlemen on the train proceeded to spend the rest of the train trip in shame. What a wonderful start to our adventure.
+
+> Gonna try to keep my excerpts a bit briefer to hopefully this time I'll actually manage to write something about every day and upload it as I go. I'll also try to finish up the last diary as I go (I'm still writing on it, I just have a lot of notes to go through).
