@@ -12,4 +12,3 @@ finally make one!
 I can't really speak on how well updated this will be in the future, but I'll
 try my best. If I'm giving up on the site I'll try to remember to write so
 here.
-

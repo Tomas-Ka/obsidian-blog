@@ -2,5 +2,4 @@
 title: "{{title}}"
 ---
 
-# Today's Japanese phrases:
-*
+go to: [[{{title}}|Previous day]] - [[{{title}} | Next day]]

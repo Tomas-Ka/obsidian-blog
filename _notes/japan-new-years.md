@@ -3,11 +3,14 @@ title: My trip to Japan
 ---
 Over Christmas and New Years 2024/25 my whole family went to Japan together.
 This is where I've documented that trip.
-We were in there in total of 17, from the 21st of December 2024 to the 6th of January 2025.
+We were in there in total of 17, from the 21st of December 2024 to the 6th of
+January 2025.
 
-I have very quickly realised that it isn't feasible to update this site properly every evening, but I will try my best.
+I have very quickly realised that it isn't feasible to update this site
+properly every evening, but I will try my best.
 
->This page is still active and will receive regular updates.
+>This page is still active and will ~~receive regular updates~~
+>be updated as I manage to go through all my notes.
 
 <br>
 

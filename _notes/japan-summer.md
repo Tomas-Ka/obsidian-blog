@@ -17,5 +17,5 @@ Anyhow, here's to Japan 2; electric boogaloo!
 
 # Days
 
-[[Summer-Day 0|Day 0: Re Tokyo]]: Heading back to Tokyo with some friends.
-
+[[Summer-Day 0|Day 0: Re Tokyo]]: Heading back to Tokyo with some friends.<br>
+[[Summer-Day 1|Day 1: A day in Akihabara]]: Heading back to Tokyo with some friends.
