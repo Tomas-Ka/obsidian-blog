@@ -97,6 +97,8 @@ The rest of the day (we got there at 8am, so there was still plenty to do) was s
 </span></span>
 On the way over we also had some amazing ramen noodles at a random place in the wall we walked by. Finally, as we were heading back on the train, my dear travel partner saw an advert for a game show on the train and, briefly forgetting the culture she was in, pointed at it and proclaimed "Yaoi!" She immediately realised what she had done, and after briefly locking eyes with an older gentlemen on the train proceeded to spend the rest of the train trip in shame. What a wonderful start to our adventure.
 
+---
+
 > Gonna try to keep my excerpts a bit briefer to hopefully this time I'll actually manage to write something about every day and upload it as I go. I'll also try to finish up the last diary as I go (I'm still writing on it, I just have a lot of notes to go through).
 
 go to: [[Summer-Day 1|Next day]]

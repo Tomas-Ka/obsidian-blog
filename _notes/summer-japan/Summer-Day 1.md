@@ -9,7 +9,7 @@ After a good long sleep we took a late "morning" down to a close-by Katsuan for 
 *It was very nice actually, and just look at these towers of cabbage!*
 </span>
 
-# Buying statues in Akihara
+# Buying statues in Akihbara
 
 <span class="rightimg"><span class ="smallimg">
 ![[Akihabara.webp]]
@@ -70,6 +70,8 @@ AAAnnd, to our horror it has been removed!! Some of the stickers nearby were sti
 Finally we went and got food at an old conveyor belt sushi place on our way home. It was really an experience since they didn't have any tablets to order from, and I somehow managed to miss the drinks menu, so we experimented a bit with the make it yourself green tea, before finally finding the courage to ask for drinks, and eventually the server pointed it out to us and we could finally order what they have. We weren't allowed to take any pictures (otherwise I would've) but honestly I think that added to the charm of it a lot. The most exciting thing to happen there (apart from the not figuring out how to order food) was getting to try real wasabi (it was **spicy** spicy and you certainly did not need a lot), and then spotting octopus sushi. I really wanted to give it a try, but I didn't have courage left to try in the end (and also the plates were racking up rather quickly). All in all it was a pleasant experience, and after a short walk and then a train / mono rail / whatever that specific version of rail travel was called, we found ourselves at home, and went to bed!
 
 (Or well, almost. We booked an experience called TeamLab for tomorrow, which I'm really looking forwards to, and then I wrote all of this ofc).
+
+---
 
 > Writing this still takes a good while, but it's a lot quicker and easier now that I can handle the images more properly, which means a higher likelihood of actually being able to keep up with this on time!
 
