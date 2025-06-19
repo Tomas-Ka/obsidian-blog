@@ -108,4 +108,4 @@ When we finally got home it was late late, but I still sat down to type this all
 ---
 > Images are the bane of my existence and I need better tools to handle them properly, aaaaa
 
-go to: [[Summer-Day 1|Previous day]] - [[Summer-Day 3 | Next day]]
+go to: [[Summer-Day-1|Previous day]] - [[Summer-Day 3 | Next day]]

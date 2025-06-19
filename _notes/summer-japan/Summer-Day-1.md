@@ -75,4 +75,4 @@ Finally we went and got food at an old conveyor belt sushi place on our way home
 
 > Writing this still takes a good while, but it's a lot quicker and easier now that I can handle the images more properly, which means a higher likelihood of actually being able to keep up with this on time!
 
-go to: [[Summer-Day 0|Previous day]] - [[Summer-Day 2 | Next day]]
+go to: [[Summer-Day-0|Previous day]] - [[Summer-Day-2| Next day]]

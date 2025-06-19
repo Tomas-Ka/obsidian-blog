@@ -101,4 +101,4 @@ On the way over we also had some amazing ramen noodles at a random place in the 
 
 > Gonna try to keep my excerpts a bit briefer to hopefully this time I'll actually manage to write something about every day and upload it as I go. I'll also try to finish up the last diary as I go (I'm still writing on it, I just have a lot of notes to go through).
 
-go to: [[Summer-Day 1|Next day]]
+go to: [[Summer-Day-1|Next day]]
