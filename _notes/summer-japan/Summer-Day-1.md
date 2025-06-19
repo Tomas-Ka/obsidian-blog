@@ -9,7 +9,7 @@ After a good long sleep we took a late "morning" down to a close-by Katsuan for 
 *It was very nice actually, and just look at these towers of cabbage!*
 </span>
 
-# Buying statues in Akihbara
+# Buying statues in Akihabara
 
 <span class="rightimg"><span class ="smallimg">
 ![[Akihabara.webp]]
