@@ -19,4 +19,5 @@ Anyhow, here's to Japan 2; electric boogaloo!
 
 [[Summer-Day-0|Day 0: Re Tokyo]]: Heading back to Tokyo with some friends.<br>
 [[Summer-Day-1|Day 1: A day in Akihabara]]: Spending a day exploring Akihabara.<br>
-[[Summer-Day-2|Day 2: Heading to TeamLabs]]: Going to the TeamLabs exhibit.
+[[Summer-Day-2|Day 2: Heading to TeamLabs]]: Going to the TeamLabs exhibit.<br>
+[[Summer-Day-3|Day 3: A day of rest]]: Chilling in the apartment.<br>
