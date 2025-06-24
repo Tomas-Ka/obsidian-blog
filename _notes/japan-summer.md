@@ -21,3 +21,8 @@ Anyhow, here's to Japan 2; electric boogaloo!
 [[Summer-Day-1|Day 1: A day in Akihabara]]: Spending a day exploring Akihabara.<br>
 [[Summer-Day-2|Day 2: Heading to TeamLabs]]: Going to the TeamLabs exhibit.<br>
 [[Summer-Day-3|Day 3: A day of rest]]: Chilling in the apartment.<br>
+[[Summer-Day-4|Day 4: The great apartment change]]: Moving apartments across Tokyo.<br>
+[[Summer-Day-5|Day 5: A Trip to Shibuya]]:  A small tourist trip in Shibuya and some shopping!<br>
+[[Summer-Day-6|Day 6: The Monster Hunter Bar]]: MONSTER HUNTER BAR (need I say more?).<br>
+[[Summer-Day-7|Day 7: Another Day Off]]: Taking another day to rest and plan.<br>
+

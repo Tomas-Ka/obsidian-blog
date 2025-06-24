@@ -1,5 +1,6 @@
 ---
 title: "Day 2: TeamLabs"
+date: 2025-06-19
 ---
 Today we slept in for pretty much the entire day. The lack of sleep finally caught up, and sitting up late working on this blog probably wasn't the wisest idea. We got some quick food at 7/11 for lunch, and then ventured forth into Tokyo again to meet with one of our friends who has been staying here for the last few months and go to TeamLab Borderless together!
 

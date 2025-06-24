@@ -1,5 +1,6 @@
 ---
-title: "Day 3: A day of rest"
+title: "Day 3: A Day of Rest"
+date: 2025-06-20
 ---
 
 Today I have done pretty much nothing except resting. Yet another late night into a late morning turned into us deciding to go clubbing because one of the gang is going home tomorrow. The only big problem with this is that we're moving apartments tomorrow, and have to be out of the house at 10am. Now this wouldn't be a problem in any other capital city, just go to the party, go head around 2-3 am, sleep for 7 hours and then leave the house then. Not in Japan!

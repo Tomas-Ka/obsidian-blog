@@ -1,5 +1,6 @@
 ---
-title: "Day 1: A day in Akihabara"
+title: "Day 1: A Day in Akihabara"
+date: 2025-06-18
 ---
 # Quick breakfast
 After a good long sleep we took a late "morning" down to a close-by Katsuan for some fried brunch and rice.

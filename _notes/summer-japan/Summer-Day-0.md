@@ -1,5 +1,6 @@
 ---
 title: "Day 0: Re Tokyo"
+date: 2025-06-17
 ---
 
 # The plan
