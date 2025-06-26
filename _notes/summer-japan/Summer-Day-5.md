@@ -3,7 +3,8 @@ title: "Day 5: A Trip to Shibuya"
 date: 2025-06-22
 ---
 Today it was finally time to go visit Shibuya! Some of the others had already gone, but not all of us, and so some sightseeing was in order.
-<span class="righting">
+
+<span class="rightimg">
 <span class="smallimg">
 <!-- Hachiko statue -->
 ![[Hachiko-statue.webp]]
@@ -23,6 +24,7 @@ After getting into Shibuya station with no issues at all, we quickly stopped by 
 
 The very next step was to cross over the famous scramble crossing! People hype it up a bit more than it deserves, at the end of the day it's just an omnidirectional crossing, but it **is** a really cool idea, just maybe not quite that cool.
 
+Next thing visible from the station exit is a famous shopping mall, the 109 building. It's a mecca for certain fashion subgenres in Tokyo, especially for teenage girls. The reason I find it interesting is because it features quite prominently in one of the best Nintendo DS games ever made (The World Ends With You), but there it has been renamed the 104 building, probably to avoid copyright.
 
 <span class="rightimg">
 <span class="smallimg">
@@ -32,8 +34,7 @@ The very next step was to cross over the famous scramble crossing! People hype i
 </span>
 </span>
 
-
-Next thing visible from the station exit is a famous shopping mall, the 109 building. It's a mecca for certain fashion subgenres in Tokyo, especially for teenage girls. The reason I find it interesting is because it features quite prominently in one of the best Nintendo DS games ever made (The World Ends With You), but there it has been renamed the 104 building, probably to avoid copyright. This caused me major confusion when I first saw it for real, but eventually I figured out it was in fact the same building and I wasn't going insane misremembering things (sidenote, if you haven't already you should totally check out TWENY, it's amazing).
+This caused me major confusion when I first saw it for real, but eventually I figured out it was in fact the same building and I wasn't going insane misremembering things (sidenote, if you haven't already you should totally check out TWENY, it's amazing).
 
 Anyhow, after taking a quick look around at the sites we begun heading down the main shopping street, towards the closest Uniqlo. On the way we were stopped however! A young Japanese guy (about my age) came over and asked us some questions about our experience and expectations as tourists. It seems he was doing some form of survey to better tourist experience or something similar. We had an interesting conversation, and then continued onwards towards Uniqlo.
 
