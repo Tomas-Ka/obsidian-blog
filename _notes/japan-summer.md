@@ -25,4 +25,6 @@ Anyhow, here's to Japan 2; electric boogaloo!
 [[Summer-Day-5|Day 5: A Trip to Shibuya]]:  A small tourist trip in Shibuya and some shopping!<br>
 [[Summer-Day-6|Day 6: The Monster Hunter Bar]]: MONSTER HUNTER BAR (need I say more?).<br>
 [[Summer-Day-7|Day 7: Another Day Off]]: Taking another day to rest and plan.<br>
+[[Summer-Day-8|Day 8: Shinagawa Aquarium]]: going to the aquarium, and then going drinking!<br>
+[[Summer-Day-9|Day 9: Back to Nakano Broadway]]: Going shopping again, first in Nakano, and then Akihabara.<br>
 
