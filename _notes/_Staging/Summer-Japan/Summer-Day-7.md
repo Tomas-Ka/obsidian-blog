@@ -4,7 +4,14 @@ date: 2025-06-24
 ---
 Today was another chill day for me. Two of my friends went into town to see the Imperial palace gardens and check out Tokyo tower, but I stayed home to finally catch up on some well needed rest (and to catch up on writing this blog a bit).
 
-We had some Chinese food, but ordered too little food, and since we took takeout we ended up having to order extra Dominos. The guy we ordered from was incredibly sweet though, and he helped us with both images from the restaurant Instagram, and by asking lots of questions about what we would want. Was incredibly nice of him, and greatly appreciated although it did make us rush just a tiny little bit xD
+I did find some FFXIV stuff I had forgotten to open, so I did some magnet gacha, and got these cuties!
+<span class="centerimg">
+![[ffxiv-magnets-vol3.webp]]
+<!-- magnets -->
+*Look at them, they're adorable!*
+</span>
+
+We went to get Chinese food, but ordered too little, and since we got takeout we ended up having to order extra Dominos. The guy we ordered from was incredibly sweet though, and he helped us with both images from the restaurant Instagram, and by asking lots of questions about what we would want. Was incredibly nice of him, and greatly appreciated although it did make us rush just a tiny little bit xD
 
 ---
 
