@@ -27,4 +27,9 @@ Anyhow, here's to Japan 2; electric boogaloo!
 [[Summer-Day-7|Day 7: Another Day Off]]: Taking another day to rest and plan.<br>
 [[Summer-Day-8|Day 8: Shinagawa Aquarium]]: going to the aquarium, and then going drinking!<br>
 [[Summer-Day-9|Day 9: Back to Nakano Broadway]]: Going shopping again, first in Nakano, and then Akihabara.<br>
-
+[[Summer-Day-10|Day 10: Planning and Chilling]]: Sleeping and then planning out what to do for the rest of the trip.<br>
+[[Summer-Day-11|Day 11: A Town with an Ocean View]]: <br>
+[[Summer-Day-12|Day 12: The Morning After]]: <br>
+[[Summer-Day-13|Day 13: The Indoor City]]: <br>
+[[Summer-Day-14|Day 14: Asakusa]]: <br>
+[[Summer-Day-15|Day 15: Final Fantasy Cafe]]: <br>
