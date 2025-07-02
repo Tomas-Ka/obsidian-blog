@@ -47,16 +47,17 @@ Finally we also went to see the seals! They had just been fed before I got to th
 
 <!-- seals -->
 
-Really nice restaurant with friendly staff
+Finally before we headed back we went to a local restaurant to get some food, and it was amazing! It certainly wasn't a special place at all, but we were warmly welcomed and the staff were incredibly nice. I got some beef and a katsu!
+
+<!-- food image -->
 
 # Shibuya Nightlife 
 
----
+<!-- All you can drink -->
 
-Went out drinking, got all you can drink.
-Met some Japanese people who we cheered and took some photos with.
+After the food it was time to head to Shibuya and go partying! We met up with some local friends and went out for all you can drink. After our time was up (and we were sufficiently sloshed) we continued on to another place where they had Lemon Sour for ¥50 (which is like 0.3 euro). We met a group of Japanese students there who we cheered with and took some photos with!
 
-Also managed to get home before midnight so we didn't have to stay until 5am!
+Still after all that we managed to be done before midnight, and thus were able to catch the final train and get home without having to wait until the trains start to run again at 5am!
 
 ---
 

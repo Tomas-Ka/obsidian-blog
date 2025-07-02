@@ -15,4 +15,4 @@ For dinner we went to an authentic Chinese Ramen store, where we got to see a gu
 
 ---
 
-go to: [[Summer-day-9|Previous day]] - [[Summer-Day-11|Next day]]
+go to: [[Summer-Day-9|Previous day]] - [[Summer-Day-11|Next day]]

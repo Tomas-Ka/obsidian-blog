@@ -12,6 +12,9 @@ Pokémon store
 
 One piece store
 
+
+## New hotel
+
 ---
 
 go to: [[Summer-Day-12|Previous day]] - [[Summer-Day-14|Next day]]
