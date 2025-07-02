@@ -32,6 +32,4 @@ Anyhow, here's to Japan 2; electric boogaloo!
 [[Summer-Day-12|Day 12: The Morning After]]: <br>
 [[Summer-Day-13|Day 13: The Indoor City]]: <br>
 [[Summer-Day-14|Day 14: Asakusa]]: <br>
-[[Summer-Day-15|Day 15: ]]: <br>
-
- 
+[[Summer-Day-15|Day 15: Final Fantasy Cafe]]: <br>

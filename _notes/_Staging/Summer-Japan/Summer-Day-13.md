@@ -12,6 +12,8 @@ Pokémon store
 
 One piece store
 
+food
+
 
 ## New hotel
 
