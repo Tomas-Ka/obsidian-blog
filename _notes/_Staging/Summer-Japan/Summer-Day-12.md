@@ -1,5 +1,5 @@
 ---
-title: "Summer-Day-12"
+title: "Day 12: Lazing Around"
 date: 2025-07-01
 ---
 Noodles

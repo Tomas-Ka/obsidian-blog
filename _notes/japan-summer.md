@@ -29,5 +29,11 @@ Anyhow, here's to Japan 2; electric boogaloo!
 [[Summer-Day-9|Day 9: Back to Nakano Broadway]]: Going shopping again, first in Nakano, and then Akihabara.<br>
 [[Summer-Day-10|Day 10: Planning and Chilling]]: Sleeping and then planning out what to do for the rest of the trip.<br>
 [[Summer-Day-11|Day 11: A Town with an Ocean View]]: <br>
-
- 
+[[Summer-Day-12|Day 12: Lazing Around]]: <br>
+[[Summer-Day-13|Day 13: The Indoor City]]: <br>
+[[Summer-Day-14|Day 14: Asakusa]]: <br>
+[[Summer-Day-15|Day 15: Eorzea Café]]: <br>
+[[Summer-Day-16|Day 16: You Spin Me Right Round]]: <br>
+[[Summer-Day-17|Day 17: The Indoor Theme Park]]: <br>
+[[Summer-Day-18|Day 18: The Final Day]]: <br>
+[[Summer-Day-19|Day 19: Flying Home]]: <br>

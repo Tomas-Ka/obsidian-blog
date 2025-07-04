@@ -1,5 +1,5 @@
 ---
-title: "Summer-Day-14"
+title: "Day 14: Asakusa"
 date: 2025-07-01
 ---
 Asakusa
