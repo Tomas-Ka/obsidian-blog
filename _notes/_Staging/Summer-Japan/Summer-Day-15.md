@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "Day 15: Eorzea Café"
 date: 2025-07-02
 ---

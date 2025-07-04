@@ -8,13 +8,10 @@ We had a nice steak lunch at Nakano Broadway, where we got a miniature stovetop 
 
 
 <span class="centerimg">
-
 <!-- picture of my steak -->
 ![[self-steak-nakano.webp]]
 *It was really really good...*
 </span>
-
-Once in the tech mecca we dashed from store to store through the rain, mostly looking at things, but also buying a couple of gacha items. In a small store selling self published stuff I found this really cool and creative CD (but didn't end up buying it)!
 
 <span class="rightimg">
 <span class="smallimg">
@@ -23,6 +20,8 @@ Once in the tech mecca we dashed from store to store through the rain, mostly lo
 *I cannot believe I haven't seen a cd case use the middle of the cd as an eye before!*
 </span>
 </span>
+
+Once in the tech mecca we dashed from store to store through the rain, mostly looking at things, but also buying a couple of gacha items. In a small store selling self published stuff I found this really cool and creative CD (but didn't end up buying it)!
 
 
 Eventually we met up with some friends (the same people we went drinking with [[Summer-Day-8|yesterday]]), and then we headed on home!
